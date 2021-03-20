@@ -1,5 +1,7 @@
 submission.csv
 input
+output
+download
 *.pyc
 *.swp
 *.h5
