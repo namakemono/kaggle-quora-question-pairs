@@ -1,3 +1,10 @@
+.ipynb_checkpoints
+Untitled.ipynb
+data
+models
+runs
+tmp
+wandb
 submission.csv
 input
 output
